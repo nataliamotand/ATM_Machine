@@ -7,5 +7,6 @@ Projeto RTL - Caixa Eletrônico
 - Operações: saque, depósito e consulta de saldo.
 - Opção para "criar uma conta", não sei se seria uma coisa muito complexa
 - Conversão de binário pra decimal pra apresentar no display
-- Display lcd tbm para apresentar mensagens, tipo "insira o cartão"
+- LCD Module tbm para apresentar mensagens, tipo "insira o cartão"
+- Display (7 segmentos) para apresentar valores numéricos (saldo, valor digitado, senha encriptografada tlvz?)
 
